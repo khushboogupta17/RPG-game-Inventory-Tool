@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41373602692631d419f841cd79835486, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  m_name: Pistol
+  m_description: Pistol expends AR Demo. All US marines are sedpt with this weapon
+  m_weaponType: 1
+  m_prefab: {fileID: 56067132378243046, guid: 7bb50d9777574f84092eb61e3671cc7f, type: 3}
+  m_icon: {fileID: 21300000, guid: 7de7dead0690342408e9ff1dfa1d6e88, type: 3}
+  m_wireframe: {fileID: 21300000, guid: eb4691ccf71c7d74c8e29e3b2ff0ee21, type: 3}
+  m_weight: 2
+  m_accuracy: 4
+  m_range: 7
+  m_damage: 6
+  m_fireRate: 9

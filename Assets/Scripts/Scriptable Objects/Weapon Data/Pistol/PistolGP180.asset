@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41373602692631d419f841cd79835486, type: 3}
+  m_Name: PistolGP180
+  m_EditorClassIdentifier: 
+  m_name: PistolGP180
+  m_description: PistolGP180 expends AR Demo. All US marines are sedpt with this
+    weapon
+  m_weaponType: 1
+  m_prefab: {fileID: 3470227990540691686, guid: f8f93069bf1bbd24d8a0552da813547d,
+    type: 3}
+  m_icon: {fileID: 21300000, guid: 7f880d82108cc8c4d8275238d84b6c41, type: 3}
+  m_wireframe: {fileID: 21300000, guid: 2dc9abe9121490b4e98e4bfb1e338959, type: 3}
+  m_weight: 3
+  m_accuracy: 5
+  m_range: 9
+  m_damage: 7
+  m_fireRate: 4

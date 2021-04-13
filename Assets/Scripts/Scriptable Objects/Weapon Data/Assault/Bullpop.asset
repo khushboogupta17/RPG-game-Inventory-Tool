@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41373602692631d419f841cd79835486, type: 3}
+  m_Name: Bullpop
+  m_EditorClassIdentifier: 
+  m_name: Bullpop
+  m_description: Bullpop expends AR Demo. All US marines are sedpt with this weapon
+  m_weaponType: 0
+  m_prefab: {fileID: 5196547242621254474, guid: 2dbbff049555ebb4c9b1933cd101ce97,
+    type: 3}
+  m_icon: {fileID: 21300000, guid: 2de07a47f07f64a43a095d9c23e9223c, type: 3}
+  m_wireframe: {fileID: 21300000, guid: 337e3e97b2a139e43a45f7a7815d9667, type: 3}
+  m_weight: 2
+  m_accuracy: 4
+  m_range: 6
+  m_damage: 9
+  m_fireRate: 4
