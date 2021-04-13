@@ -8,8 +8,8 @@ You can find the video here
 </div>
 
 <p>
-<img src="https://github.com/khushboogupta17/Beggar-Your-Neighbour/blob/main/Builds/SS_1.png" width="20%" height="20%">
-<img src="https://github.com/khushboogupta17/Beggar-Your-Neighbour/blob/main/Builds/SS_2.png" width="20%" height="20%">
+<img src="https://github.com/khushboogupta17/RPG-game-Inventory-Tool/blob/main/Builds/SS_1.png" width="20%" height="20%">
+<img src="https://github.com/khushboogupta17/RPG-game-Inventory-Tool/blob/main/Builds/SS_2.png" width="20%" height="20%">
 </p>
 
 # Test
