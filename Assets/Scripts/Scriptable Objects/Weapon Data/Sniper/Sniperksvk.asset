@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41373602692631d419f841cd79835486, type: 3}
+  m_Name: Sniperksvk
+  m_EditorClassIdentifier: 
+  m_name: Sniperksvk
+  m_description: Sniperksvk expends AR Demo. All US marines are sedpt with this weapon
+  m_weaponType: 3
+  m_prefab: {fileID: 7285794666798128040, guid: 33311c60851faa447bb8306aeb6292a3,
+    type: 3}
+  m_icon: {fileID: 21300000, guid: db2c01b86d7d75f4ab548f0b538da826, type: 3}
+  m_wireframe: {fileID: 21300000, guid: 2b50338c37516fc45867273546afdba5, type: 3}
+  m_weight: 5
+  m_accuracy: 3
+  m_range: 9
+  m_damage: 5
+  m_fireRate: 8

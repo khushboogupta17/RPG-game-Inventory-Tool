@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41373602692631d419f841cd79835486, type: 3}
+  m_Name: SVD0292
+  m_EditorClassIdentifier: 
+  m_name: SVD0292
+  m_description: SVD0292 expends AR Demo. All US marines are sedpt with this weapon
+  m_weaponType: 5
+  m_prefab: {fileID: 2562510230089541345, guid: 701d4e35e7e785f49b40c333f7ae185b,
+    type: 3}
+  m_icon: {fileID: 21300000, guid: 94faac215b255b54e96f64cf65a97b87, type: 3}
+  m_wireframe: {fileID: 21300000, guid: addcf80b6a2f43447b1e6450573e94d0, type: 3}
+  m_weight: 3
+  m_accuracy: 7
+  m_range: 1
+  m_damage: 3
+  m_fireRate: 6
