@@ -2,8 +2,8 @@
 It is an inventory tool where you can select from different options of guns and see their properties,name and a short description on it.
 You can find the video here 
 <div align="left">
-      <a href="https://www.youtube.com/watch?v=TeYTZ2nAWis&lc=UgxmUm5vh8hTGl5GZtJ4AaABAg">
-         <img src="https://github.com/khushboogupta17/RPG-game-Inventory-Tool/blob/main/Builds/SS_1.png" style="width:100%;">
+      <a href="https://www.youtube.com/watch?v=TeYTZ2nAWis">
+         <img src="https://github.com/khushboogupta17/RPG-game-Inventory-Tool/blob/main/Builds/SS_3.png" style="width:100%;">
       </a>
 </div>
 
